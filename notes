@@ -1,1 +1,1 @@
-rake db:create_mirgation 
+rake db:create_mirgation NAME=create_pirates
