@@ -1,1 +1,3 @@
 rake db:create_mirgation NAME=create_pirates
+
+Touch Rakefile
