@@ -1,1 +1,1 @@
-rkae
+rake db:create_mirgation 
